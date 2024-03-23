@@ -1,4 +1,4 @@
-# Spark-recommender
+# Harmony-hub
 Music recommendation System using PySpark
 
 # Dataset
